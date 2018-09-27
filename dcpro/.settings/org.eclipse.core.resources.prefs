@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/index/left.jsp=UTF-8
+encoding//src/com/dcpro/demo/controller/filter/MyFilter.java=UTF-8
+encoding//src/com/dcpro/demo/controller/util/RedisUtil.java=UTF-8
+encoding//src/com/dcpro/demo/controller/util/UUIDTool.java=UTF-8
